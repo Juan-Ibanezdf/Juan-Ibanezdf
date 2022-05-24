@@ -1,5 +1,3 @@
-# Juan-Ibanezdf
-
 <h1 align="left">Hi there :wave:,</br> I'm Juan Ibañez <img src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/cat-gif.gif" width="50"></h1> 
 
 <img align="right" src="https://github.com/GabrielBorges105/GabrielBorges105/blob/main/image.png" width="425"/>
