@@ -3,9 +3,9 @@
 <img align="right" src="https://github.com/GabrielBorges105/GabrielBorges105/blob/main/image.png" width="425"/>
 
 ### 👨‍💻 &nbsp; Quem sou eu ?
-Eu me chamo Juan Ibañez, sou Desenvolvedor, tenho 22 anos e sou apaixonado por Tecnologia. Sou estudante de Sistemas de Informação na UNDB e estou no 7º Período.
+Eu me chamo Juan Ibañez, sou programador, tenho 22 anos e sou apaixonado por tecnologia. Sou estudante de sistemas de informação na UNDB e estou no 7º Período.
 
-- 🔭 Atualmente estou estudando Sistemas de Informação(SI) na UNDB Centro Universitário.
+- 🔭 Atualmente estou me graduando em Sistemas de Informação(SI) na UNDB Centro Universitário.
 - 🌱 Estou aprendendo:
 
 ### :computer: Front-end Stack
@@ -58,8 +58,8 @@ Eu me chamo Juan Ibañez, sou Desenvolvedor, tenho 22 anos e sou apaixonado por 
 
 ### :chart_with_upwards_trend: Estatísticas:
 <p align = "left">
-    <a href="https://github.com/Juan-Ibanezdf"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Juan-Ibanezdf&show_icons=true&include_all_commits=true&count_private=true" alt="juan ibanez"/></a>
-    <a href="https://github.com/Juan-Ibanezdf"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juan-Ibanezdf&layout=compact" /></a> 
+    <a href="https://github.com/Juan-Ibanezdf"><img height="160em" src="https://github-readme-stats.vercel.app/api?username=Juan-Ibanezdf&show_icons=true&include_all_commits=true&count_private=true" alt="juan ibanez"/></a>
+    <a href="https://github.com/Juan-Ibanezdf"><img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juan-Ibanezdf&layout=compact" /></a> 
 </p> 
 
 <!--
