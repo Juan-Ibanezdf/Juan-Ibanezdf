@@ -37,6 +37,7 @@ Eu me chamo Juan Ibañez, sou Desenvolvedor, tenho 22 anos e sou apaixonado por 
 <img align="left" height="20" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/javascript.png">
 <img align="left" height="30" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/python.png">
 <img align="left" height="30" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/linux.png">
+</br>
 
 - 👯 Busco colaborar em html, css, java, python, javascript, react, react-native, node, typescript ou em projetos utilizando o figma. 
 - 🤔 Estou procurando ajuda com Controllers e Hooks afim de aprender melhor o funcionamento de cada um deles.
@@ -55,8 +56,8 @@ Eu me chamo Juan Ibañez, sou Desenvolvedor, tenho 22 anos e sou apaixonado por 
 
 ### :chart_with_upwards_trend: Estatísticas:
 <p align = "left">
-<a href="https://github.com/Juan-Ibanezdf"><img src="https://github-readme-stats.vercel.app/api?username=Juan-Ibanezdf&show_icons=true&include_all_commits=true&count_private=true" alt="juan ibanez"/></a>
-<a href="https://github.com/Juan-Ibanezdf"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juan-Ibanezdf&layout=compact" /></a> 
+    <a href="https://github.com/Juan-Ibanezdf"><img src="https://github-readme-stats.vercel.app/api?username=Juan-Ibanezdf&show_icons=true&include_all_commits=true&count_private=true" alt="juan ibanez"/></a>
+    <a href="https://github.com/Juan-Ibanezdf"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juan-Ibanezdf&layout=compact" /></a> 
 </p> 
 
 <!--
