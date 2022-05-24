@@ -39,6 +39,7 @@ Eu me chamo Juan Ibañez, sou Desenvolvedor, tenho 22 anos e sou apaixonado por 
 <img align="left" height="30" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/linux.png">
 </br>
 
+### 👨‍💻 Colaboração
 - 👯 Busco colaborar em html, css, java, python, javascript, react, react-native, node, typescript ou em projetos utilizando o figma. 
 - 🤔 Estou procurando ajuda com Controllers e Hooks afim de aprender melhor o funcionamento de cada um deles.
 - 💬 Pergunte-me sobre Desenvolvimento para Web e Mobile.
