@@ -4,11 +4,9 @@
 
 ### 👨‍💻 &nbsp; Quem sou eu ?
 Eu me chamo Juan Ibañez, sou Desenvolvedor, tenho 22 anos e sou apaixonado por Tecnologia. Sou estudante de Sistemas de Informação na UNDB e estou no 7º Período.
-</br>
-</br>
-🔭 Atualmente estou estudando Sistemas de Informação(SI) na UNDB.
-</br>
-🌱 Estou aprendendo:
+
+- 🔭 Atualmente estou estudando Sistemas de Informação(SI) na UNDB Centro Universitário.
+- 🌱 Estou aprendendo:
 
 ### :computer: Front-end Stack
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
