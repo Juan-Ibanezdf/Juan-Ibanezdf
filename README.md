@@ -58,8 +58,8 @@ Eu me chamo Juan Ibañez, sou Desenvolvedor, tenho 22 anos e sou apaixonado por 
 
 ### :chart_with_upwards_trend: Estatísticas:
 <p align = "left">
-    <a href="https://github.com/Juan-Ibanezdf"><img src="https://github-readme-stats.vercel.app/api?username=Juan-Ibanezdf&show_icons=true&include_all_commits=true&count_private=true" alt="juan ibanez"/></a>
-    <a href="https://github.com/Juan-Ibanezdf"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juan-Ibanezdf&layout=compact" /></a> 
+    <a href="https://github.com/Juan-Ibanezdf"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Juan-Ibanezdf&show_icons=true&include_all_commits=true&count_private=true" alt="juan ibanez"/></a>
+    <a href="https://github.com/Juan-Ibanezdf"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juan-Ibanezdf&layout=compact" /></a> 
 </p> 
 
 <!--
