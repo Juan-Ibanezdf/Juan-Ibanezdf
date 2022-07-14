@@ -3,7 +3,7 @@
 <img align="right" src="https://github.com/GabrielBorges105/GabrielBorges105/blob/main/image.png" width="425"/>
 
 ### 👨‍💻 &nbsp; Quem sou eu ?
-Eu me chamo Juan Ibañez, sou programador, tenho 22 anos e sou apaixonado por tecnologia. Sou estudante de sistemas de informação na UNDB e estou no 7º Período.
+Eu me chamo Juan Ibañez, sou programador, tenho 22 anos e sou apaixonado por tecnologia. Sou estudante de sistemas de informação na UNDB e estou no 8º Período.
 
 - 🔭 Atualmente estou me graduando em Sistemas de Informação(SI) na UNDB Centro Universitário.
 - 🌱 Estou aprendendo:
