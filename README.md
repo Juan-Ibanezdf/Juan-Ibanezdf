@@ -3,9 +3,9 @@
 <img align="right" src="https://github.com/GabrielBorges105/GabrielBorges105/blob/main/image.png" width="425"/>
 
 ### 👨‍💻 &nbsp; Quem sou eu ?
-Eu me chamo Juan Ibañez, sou programador, tenho 22 anos e sou apaixonado por tecnologia. Sou estudante de sistemas de informação na UNDB e estou no 8º Período.
+Eu me chamo Juan Ibañez, sou programador, tenho 22 anos e sou apaixonado por tecnologia. Sou formado em sistemas de informação na UNDB e estou cursando uma pós graduação em Engenharia de Software.
 
-- 🔭 Atualmente estou me graduando em Sistemas de Informação(SI) na UNDB Centro Universitário.
+- 🔭 Atualmente estou cursando pós graduação em Engenharia de Software(SI) na Estacio.
 - 🌱 Estou aprendendo:
 
 ### :computer: Front-end Stack
@@ -44,7 +44,7 @@ Eu me chamo Juan Ibañez, sou programador, tenho 22 anos e sou apaixonado por te
 - 👯 Busco colaborar em html, css, java, python, javascript, react, react-native, node, typescript ou em projetos utilizando o figma. 
 - 🤔 Estou procurando ajuda com Controllers e Hooks afim de aprender melhor o funcionamento de cada um deles.
 - 💬 Pergunte-me sobre Desenvolvimento para Web e Mobile.
-- 📫 Como entrar em contato comigo: **18juan.ibanez18@gmail.com**
+- 📫 Como entrar em contato comigo: **juan.ibanezdf@gmail.com**
 
 ### :briefcase: Redes sociais:
 
@@ -52,7 +52,7 @@ Eu me chamo Juan Ibañez, sou programador, tenho 22 anos e sou apaixonado por te
 
 [![Facebook Badge](https://img.shields.io/badge/-Juan_Ibanez-6633cc?style=flat-square&labelColor=6633cc&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100023722371470/)](https://www.facebook.com/profile.php?id=100023722371470)
 [![Instagram Badge](https://img.shields.io/badge/-juan_ibanezf-6633cc?style=flat-square&labelColor=6633cc&logo=instagram&logoColor=white&link=https://www.instagram.com/juan_ibanezf/)](https://www.instagram.com/juan_ibanezf/)
-[![Linkedin Badge](https://img.shields.io/badge/-Juan%20Ibanez-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juan-ibanez1/)](https://www.linkedin.com/in/juan-ibanez1/)
+[![Linkedin Badge](https://img.shields.io/badge/-Juan%20Ibanez-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juan-ibanez-df/)](https://www.linkedin.com/in/juan-ibanez-df/)
 
 </div>
 
