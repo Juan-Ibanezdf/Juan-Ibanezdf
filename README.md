@@ -3,7 +3,7 @@
 <img align="right" src="https://github.com/GabrielBorges105/GabrielBorges105/blob/main/image.png" width="425"/>
 
 ### 👨‍💻 &nbsp; Quem sou eu ?
-Eu me chamo Juan Ibañez, sou programador, tenho 22 anos e sou apaixonado por tecnologia. Sou formado em sistemas de informação na UNDB e estou cursando uma pós graduação em Engenharia de Software.
+Eu me chamo Juan Ibañez, sou programador, tenho 23 anos e sou apaixonado por tecnologia, músicas, livros e s. Sou formado em sistemas de informação na UNDB e estou cursando uma pós graduação em Engenharia de Software na faculdade Estácio.
 
 - 🔭 Atualmente estou cursando pós graduação em Engenharia de Software(SI) na Estacio.
 - 🌱 Estou aprendendo:
@@ -56,13 +56,7 @@ Eu me chamo Juan Ibañez, sou programador, tenho 22 anos e sou apaixonado por te
 
 </div>
 
-### :chart_with_upwards_trend: Estatísticas:
-<div align="left">
-    <a href="https://github.com/Juan-Ibanezdf" >
-        <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Juan-Ibanezdf&show_icons=true&include_all_commits=true&count_private=true" alt="juan ibanez"/>
-        <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juan-Ibanezdf&layout=compact" /> 
-    </a> 
-</div>
+<!-- Colocar as estatiscas depois-->
 
 <!--
 **Ibanez-Juan/Ibanez-Juan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
