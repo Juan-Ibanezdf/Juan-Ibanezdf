@@ -55,9 +55,8 @@ Eu me chamo Juan Ibañez, sou programador, tenho 24 anos e sou apaixonado por te
 
 <div align="left">
 
-[![Facebook Badge](https://img.shields.io/badge/-Juan_Ibanez-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100023722371470)
 [![Instagram Badge](https://img.shields.io/badge/-juan_ibanezf-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/juan_ibanezf/)
-[![Linkedin Badge](https://img.shields.io/badge/-Juan%20Ibanez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-ibanez-df/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-Juan%20Ibanez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-ibanez-df/)
 
 </div>
 
